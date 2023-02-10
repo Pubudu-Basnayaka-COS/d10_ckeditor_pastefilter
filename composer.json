@@ -1,0 +1,10 @@
+{
+  "name": "drupal/ckeditor_paste_filter",
+  "description": "CKeditor Paste Filter",
+  "type": "drupal-module",
+  "homepage": "http://drupal.org/project/ckeditor_paste_filter",
+  "require" : {
+    "drupal/core": "^9.4 || ^10"
+  },
+  "license": "GPL-2.0-or-later"
+}
